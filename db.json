@@ -4,13 +4,31 @@
     "id": 1,
     "title": "37635635600098",
     "fecha": "23-05-2022",
-    "name": "Luz marina martinez Gomez"
+    "name": "Luz marina martinez Gomez",
+    "other": "municipio de florencia"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "444440098",
     "fecha": "23-05-2022",
-    "name": "Luz marina martinez Gomez"
+    "name": "Luz marina martinez Gomez",
+    "other": "roberto roberto soto"
+  },
+ {
+    "userId": 1,
+    "id": 3,
+    "title": "600098-98987827",
+    "fecha": "23-05-2022",
+    "name": "martin zuleta",
+    "other": "dairo florez patiño"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "444440098",
+    "fecha": "23-05-2022",
+    "name": "claudia maria romero",
+    "other": "Colpensiones"
   }
 ]
