@@ -4,13 +4,15 @@
     "id": 1,
     "title": "45345345345345",
     "fecha": "14-05-2022",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "first": "luz marina martinez gomez"
+    "second": "Municipio de florecia"
   },
   {
     "userId": 1,
     "id": 2,
     "title": "55454545",
     "fecha": "14-05-2022",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  }
+    "first": "Grabiel de jesus moscoso rodriguez"
+    "second": "Diego Roberto soto"
+   }
 ]
