@@ -5,7 +5,6 @@
         "description":"Brownie + chocolate",
         "price": 6500,
         "restaurant": "El gran pudini",
-        "quantity": 1
     },
     {
         "id": 4,
@@ -13,6 +12,5 @@
         "description":"Camarón, guizantes",
         "price":2300,
         "restaurant": "XIQUEN Huan",
-        "quantity": 1
     },
 ]
