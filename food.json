@@ -1,4 +1,4 @@
-[
+
  {   
         "id": 1,
         "src": "require('./../assets/menu/brownie.jpg')",
@@ -49,4 +49,3 @@
         "restaurantImg": "require('./../assets/restaurant/BrunosFriedChicken.jpg')",
         "quantity": 1
     }
- ]
