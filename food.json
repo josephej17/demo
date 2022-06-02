@@ -4,7 +4,7 @@
         "src": "require('./../assets/menu/brownie.jpg')",
         "name": "Brownie",
         "description":"Pudín de chocolate con trufas",
-        "price": 1700,
+        "price": 1750,
         "restaurant": "El gran pudini",
         "restaurantImg": "require('./../assets/restaurant/res6.jpg')",
         "quantity": 1
@@ -14,7 +14,7 @@
         "src": "require('./../assets/menu/cheeseCake.jpg')",
         "name": "Cheese Cake",
         "description":"Delicioso postre de queso + galletas",
-        "price": 2000,
+        "price": 2500,
         "restaurant": "El gran pudini",
         "restaurantImg": "require('./../assets/restaurant/res6.jpg')",
         "quantity": 1
