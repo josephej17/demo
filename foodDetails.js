@@ -38,15 +38,5 @@
         restaurant: 'XIQUEN Huan',
         restaurantImg: require("./../assets/restaurant/res5.jpg"),
         quantity: 1
-    },
-    {
-        id: 5,
-        src: require("./../assets/menu/FriedChicken.jpg"),
-        name:'Pollo a la Broster',
-        description:'Alistas + muslo + BBQ',
-        price:2500,
-        restaurant: "Bruno's Fried Chicken",
-        restaurantImg: require("./../assets/restaurant/BrunosFriedChicken.jpg"),
-        quantity: 0
     }
 ]
