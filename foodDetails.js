@@ -48,6 +48,5 @@
         restaurant: "Bruno's Fried Chicken",
         restaurantImg: require("./../assets/restaurant/BrunosFriedChicken.jpg"),
         quantity: 0
-    },
-
-];
+    }
+]
